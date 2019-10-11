@@ -1,0 +1,148 @@
+span{
+    font-size: 40px;
+   position: absolute;
+}
+
+
+
+body{
+    background-image: url(../chess/pravila.jpg) ;
+    background-repeat: no-repeat;
+}
+.peshka1{
+    top: 62px;
+    left: 30px;
+}
+.peshka2{
+    top:62px;
+    left: 75px;
+}
+.peshka3{
+    top:62px;
+    left: 120px;
+}
+.peshka4{
+    top:62px;
+    left: 160px;
+}
+.peshka5{
+    top:62px;
+    left: 205px;
+}
+.peshka6{
+    top:62px;
+    left: 245px;
+}
+.peshka7{
+    top:62px;
+    left:290px;
+}
+.peshka8{
+    top:62px;
+    left: 335px;
+}
+.king_white{
+    top: 20px;
+    left: 205px;
+
+}
+.queen_white{
+    top:20px;
+    left: 160px;
+}
+.slon1_white{
+    top:20px;
+    left: 120px;
+}
+.horse1_white{
+    top:20px;
+    left: 75px;
+}
+.tura1_white{
+    top:20px;
+    left: 30px;
+}
+.slon2_white{
+    top:20px;
+    left: 245px;
+}
+.horse2_white{
+    top:20px;
+    left:290px;
+   
+}
+.tura2_white{
+top: 20px;
+left: 335px;
+
+}
+.peshka9{
+    top: 280px;
+    left: 30px;
+
+}
+.peshka10{
+    top: 280px;
+    left: 75px;
+}
+.peshka11{
+    top: 280px;
+    left: 120px;
+}
+.peshka12{
+    top: 280px;
+    left: 160px;
+}
+.peshka13{
+    top: 280px;
+    left: 205px;
+}
+.peshka14{
+    top: 280px;
+    left:245px;
+}
+.peshka15{
+    left:290px;
+    top: 280px;
+}
+.peshka16{
+    left: 335px;
+    top: 280px;
+}
+.king_black{
+    top:322px;
+    left: 205px;
+}
+.queen_black{
+    top:322px;
+    left: 160px;
+}
+.tura1_black{
+    top:322px;
+    left: 30px;
+}
+.tura2_black{
+    top:322px;
+    left: 245px;
+}
+.slon1_black{
+    top:322px;
+    left: 120px;
+}
+.slon2_black{
+    left: 245px;
+    top:322px;
+}
+.horse1_black{
+    top:322px;
+    left: 75px;
+}
+.horse2_black{
+    top:322px;
+    left:290px;
+}
+.tura2_black{
+    left: 335px;
+    top:322px;
+
+}
